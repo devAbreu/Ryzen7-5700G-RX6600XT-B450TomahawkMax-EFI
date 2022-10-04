@@ -2,7 +2,10 @@
 
 ![Screenshot](screenshot.png?raw=true)
 
-Builded following this [dortania guide](https://dortania.github.io/OpenCore-Install-Guide/AMD/zen.html#starting-point)
+- Builded following this [dortania guide](https://dortania.github.io/OpenCore-Install-Guide/AMD/zen.html#starting-point)
+
+- [Making the installer in windows](https://dortania.github.io/OpenCore-Install-Guide/installer-guide/winblows-install.html#downloading-macos)
+- [macOS dortania installation process](https://dortania.github.io/OpenCore-Install-Guide/installation/installation-process.html#installation-process)
 
 # OpenCore EFI for AMD Ryzen Hackintosh (Ryzentosh)
 
@@ -10,8 +13,8 @@ Builded following this [dortania guide](https://dortania.github.io/OpenCore-Inst
 
 | **Component**    | **Model**                                   |
 | ---------------- | ------------------------------------------  |
-| CPU              | AMD Ryzen 7 5700G @ 3.8GHz                  |
-| Motherboard      | Tomahawk Max B450                           |
+| CPU              | [AMD Ryzen 7 5700G @ 3.8GHz](https://www.amd.com/en/products/apu/amd-ryzen-7-5700g)                  |
+| Motherboard      | [Tomahawk Max B450](https://www.msi.com/Motherboard/B450-TOMAHAWK-MAX/Specification)                           |
 | RAM              | 16GB (2x8GB) Corsair Vengeance LPX @ 3200MHz|
 | GPU              | MSI RX 6600 XT GAMING X 8G                  |
 | Audio Chipset    | Realtek® ALC892 Codec                       |
