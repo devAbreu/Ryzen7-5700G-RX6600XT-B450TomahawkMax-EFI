@@ -1,4 +1,6 @@
 # Ryzen 7 5700G + RX 6600 XT + B450 Tomahawk Max
+# OpenCore EFI for AMD Ryzen Hackintosh (Ryzentosh)
+## **Remember to change MLB, ROM, Serial Number, UUID** in the config.plist
 
 ![Screenshot](screenshot.png?raw=true)
 
@@ -7,7 +9,6 @@
 - [Making the installer in windows](https://dortania.github.io/OpenCore-Install-Guide/installer-guide/winblows-install.html#downloading-macos)
 - [macOS dortania installation process](https://dortania.github.io/OpenCore-Install-Guide/installation/installation-process.html#installation-process)
 
-# OpenCore EFI for AMD Ryzen Hackintosh (Ryzentosh)
 
 ## Verified Specification
 
@@ -45,7 +46,7 @@
 
 ## What is working?
 
-I haven't done much testing on this build. The basics work fine.
+I haven't done much testing on this build. The basics work fine. I've done this build for iOS development purposes.
 
 - Wifi, Ethernet, Audio (AppleALC) front and rear. If you want the mic to work, you must use the VoodooHDA kext method. I have tested it and it works fine. The mic and front/rear audio.
 
