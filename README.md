@@ -39,9 +39,10 @@ Builded following this [dortania guide](https://dortania.github.io/OpenCore-Inst
 
 
 
-I haven't done much testing on this build. The basics work fine.
 
 ## What is working?
+
+I haven't done much testing on this build. The basics work fine.
 
 - Wifi, Ethernet, Audio (AppleALC) front and rear. If you want the mic to work, you must use the VoodooHDA kext method. I have tested it and it works fine. The mic and front/rear audio.
 
