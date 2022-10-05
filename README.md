@@ -9,6 +9,7 @@
 - [Making the installer in windows](https://dortania.github.io/OpenCore-Install-Guide/installer-guide/winblows-install.html#downloading-macos)
 - [macOS dortania installation process](https://dortania.github.io/OpenCore-Install-Guide/installation/installation-process.html#installation-process)
 
+- <span style="color: red">Clean Install - new volume partition needs to be formatted as</span> <span style="color: #61BD6D">APFS</span>
 
 ## Verified Specification
 
